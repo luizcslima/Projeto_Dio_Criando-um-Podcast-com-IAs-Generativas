@@ -25,7 +25,7 @@ Acesso à plataforma: [DIO](https://dio.me)
 - [ChatGPT](https://chat.openai.com/) -- Geração de conteúdo e imagens
 - [Copilot](https://copilot.microsoft.com/) -- Geração de conteúdo e imagens
 - [ImagineArt](https://www.imagine.art) -- Geração de imagens (substituto do MidJourney)
-- [Clipchamp](https://clipchamp.com/en/) -- Conversor de texto em fala e edito de vídeo/audio
+- [Clipchamp](https://clipchamp.com/en/) -- Conversor de texto em fala e editor de vídeo/audio
 - [ElevenLabs](https://elevenlabs.io/) -- Conversor de texto em fala
 
 
@@ -71,8 +71,8 @@ Acesso à plataforma: [DIO](https://dio.me)
 >>>**Output escolhido:** 
 <br/>
 
->8️⃣ **AÇÃO #3:**
->Formatação e finalização do e-book utilizando os outputs gerados pela ferramenta de IA, alguns de cunho próprio (parte de avisos, agradecimentos, ferramentas utilizadas e sobre o autor) e o Microsoft Power Point.
+>8️⃣ **AÇÃO #2 - Edição do áudio [ClipChamp]:**
+>Edição final do áudio.
 >Upload de arquivos para o GitHub.
 >Finalização das seções presentes na página (resultados, discussão, conclusão, autor)
 <br/> 
