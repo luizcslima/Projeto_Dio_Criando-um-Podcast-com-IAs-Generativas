@@ -26,7 +26,6 @@ Acesso à plataforma: [DIO](https://dio.me)
 - [Copilot](https://copilot.microsoft.com/) -- Geração de conteúdo e imagens
 - [ImagineArt](https://www.imagine.art) -- Geração de imagens (substituto do MidJourney)
 - [Clipchamp](https://clipchamp.com/en/) -- Conversor de texto em fala e editor de vídeo/audio
-- [ElevenLabs](https://elevenlabs.io/) -- Conversor de texto em fala
 
 
 ## Passo-a-Passo
@@ -97,12 +96,11 @@ Expectativa:
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração"
 
->>**Output escolhido:** 
+>>**Output escolhido:** Conteúdo gerado pelo ChatGPT.
 <br/>
 
->7️⃣ **AÇÃO #1 - Geração do áudio [ClipChamp],[Elevenlabs]:**
->Conversão do texto para áudio utilizando as ferramentas mencionadas.
->>>**Output escolhido:** 
+>7️⃣ **AÇÃO #1 - Geração do áudio [ClipChamp]:**
+>Conversão do texto para áudio utilizando a ferramenta mencionada.
 <br/>
 
 >8️⃣ **AÇÃO #2 - Edição do áudio [ClipChamp]:**
@@ -114,8 +112,8 @@ Expectativa:
 
 ## Resultados 🔎📊
 <p align="justify">
-O resultado do presente trabalho foi a introdução presente nesse arquivo readme.md e a gravação "", que se encontra na pasta "outputs" de respositório.
-As imagens geradas por IA e ícones utilizados no e-book encontram-se na past "assets".
+O resultado do presente trabalho foi o conteúdo presente nesse arquivo readme.md e a gravação "Project - PodCast DIO - Entrevistas de Emprego - Luiz Lima", que se encontra na pasta "outputs" de respositório.
+As imagens geradas por IA que eventualmente seriam utilizadas como capa e uploads em plataformas de streaming estão na pasta "assets".
 </p>
 
 
@@ -123,6 +121,16 @@ As imagens geradas por IA e ícones utilizados no e-book encontram-se na past "a
 <p align="justify">
 >ℹ️ **NOTA_:** A discussão aqui fornecida não foi gerada por ferramentas de IA. Caso contrário, perderia o propósito de discutir o uso da IA em si para a preparação do e-book e partes desse trabalho/projeto.
 
+> Ao preparar o podcast com auxílio de ferramentas de IA, houve uma sinergia com o conteúdo apresentado durante o bootcamp "CAIXA - IA Generativa com Microsoft Copilot" da DIO, especificamente da seção "Projetos Práticos com IA" onde as expectativas foram estabelecidas logo de início:
+
+> - As ferramentas de IA são **ferramentas** para auxílio e aumento da produtividade (pelo menos no momento atual em que esse trabalho foi elaborado).
+> - As ferramentas de IA possuem um resultado que pode ser refinado e aproveitado muito melhor por alguém que possui conhecimento do tema sendo tratado, onde o indivíduo com conhecimento da temática será capaz de definir a qualidade dos outputs gerados pela IA e refinar os prompts conforme a necessidade para resultados mais interessantes.
+
+> Foi possível notar ainda que as ferramentas utilizadas trazem particularidades em suas capacidades:
+>> - O Copilot aparenta sair-se melhor em habilidades de sintetizar e organizar a informação, sua capacidade de roteirizar e concatenar/cadenciar as ideias contidas no prompt (Prompt #6) foram de certa forma frustrantes.
+>> - O ChatGPT foi **incrível** em sua capacidade de concatenar/cadenciar as ideias/conteúdo do prompt apresentado no STEP 6 (Prompt #6). Não houve necessidade de alterar o conteúdo de fala que foi utilizado na gravação "Project - PodCast DIO - Entrevistas de Emprego - Luiz Lima", foi algo realmente impressionante.
+>> - O Imagine Art, com todas as suas capacidades de parametrização, se mostrou uma ferramenta excelente para geração de imagens de acordo com a preferência do usuário, atuando como um ótimo substituto para o Midjourney. No entanto, o realismo que as imagens apresentaram na geração de pessoas foi, de certa forma, preocupamente. As pessoas geradas poderiam facilmente serem tidas como pessoas reais, o que abre espaço para o mau uso da ferramenta por pessoas mal intencionadas.
+>> - O Microsoft ClipChamp possui capacidades de conversão de texto para voz que foram suficientes para o projeto,  não havendo a necessidade de usar a ferramenta ElevenLabs, que foi removida do projeto. Além disso, a ferramenta é um editor de vídeo e audio, então a praticidade de ter tudo em apenas uma ferramenta é uma facilidade que ajuda muito o criador de conteúdo. A biblioteca de sons gratuitos também é muito boa. A ferramenta foi/é bem intuitiva e de fácil uso, isso é corroborado pelo fato que foi a primeira vez do autor deste projeto em contato com a ferramenta.
 
 </p>
 
