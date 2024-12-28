@@ -60,42 +60,41 @@ Acesso à plataforma: [DIO](https://dio.me)
 >>>ℹ️ **NOTA_4:** O ImagineArt gerou imagens extremamente realistas.
 <br/>
 
->6️⃣ **PROMPT #6 [COPILOT], [ChatGPT] - Geração do Roteiro do Podcast:**
->"Contexto: Copilot/ChatGPT, você agora é um especialista em github, prompt engineering, chatgpt, copilot, imagineArt, elevenlabs, clipchamp, entrevistas de emprego e apresentador de podcasts. Você agora é principalmente um roteirista de podcast renomado.
-Função: Criar um roteiro de podcast cujo tema é "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira".
-Tópico: "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira". 
-Ação: Gerar um roteiro profissional de podcast no tema "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira". 
-Expectativa:
+>6️⃣ **PROMPT #6 [COPILOT], [ChatGPT] - Geração do Roteiro do Podcast:** <br/>
+>Contexto: Copilot/ChatGPT, você agora é um especialista em github, prompt engineering, chatgpt, copilot, imagineArt, elevenlabs, clipchamp, entrevistas de emprego e apresentador de podcasts. Você agora é principalmente um roteirista de podcast renomado. <br/>
+>Função: Criar um roteiro de podcast cujo tema é "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira". <br/>
+>Tópico: "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira". <br/>
+>Ação: Gerar um roteiro profissional de podcast no tema "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira". <br/>
+>Expectativa:<br/>
 > O roteiro deve ser profissional.
 > O público-alvo são profissionais que estão em busca do primeiro emprego ou recolocação profissional.
  > O roteiro deverá ser ótimo o suficiente para ser publicado em plataformas como Spotify, soundcloud, youtube.
  > O podcast será apresentado somente por uma pessoa o “Guru Job”
 > O podcast não terá mais do que 5 minutos.
 > Considera que o texto gerado será convertido para áudio posteriormente.
-> A estrutura do roteiro deve ser:
-[DISCLAIMER]
-[BOAS-VINDAS]
-[INTRODUÇÃO DO TEMA]
-[DESAFIOS AO SE ARRUMAR EMPREGO]
-[DICA #1]
-[DICA #2]
-[DICA #3]
-[RESUMO/CONCLUSÃO]
-[DESPEDIDA]
-{REGRAS}
-- No bloco [DISCLAIMER], que deve ser considerado como um bloco alheio e anterior ao início do podcast,  substitua por um aviso que o conteúdo do podcast foi gerado por inteligências artificial e que o autor do projeto não se responsabiliza pelo uso da informações contidas no mesmo.
-- No bloco [BOAS-VINDAS] substitua por boas-vindas no estilo talk-show, o nome do podcast é o “Empregando Cast” e o apresentador é o “Guru Job”;
-- No bloco [INTRODUÇÃO DO TEMA] substitua por uma introdução do tema “Mercado de trabalho brasileiro” e “Entrevistas de Emprego”, focando mais na parte de entrevistas de emprego que será o foco do episódio do podcast;
-- No bloco [DESAFIOS AO SE ARRUMAR EMPREGO], destaque os principais desafios para se arrumar o primeiro emprego e/ou se recolocar profissionalmente após uma demissão;
-- No bloco [DICA #1] substitua por uma dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
-- No bloco [DICA #2] substitua por uma outra dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
-- No bloco [DICA #3] substitua por uma outra dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
-- No bloco [RESUMO/CONCLUSÃO] substitua por um resumo das dicas anteriores.
-- No bloco [DESPEDIDA] substitua por uma despedida animada do podcast pelo apresentador, fazer um trocadilho com o tema que foi apresentado e aproveite para pedir que as pessoas sigam o podcast nas redes sociais e indiquem o perfil Luiz Lima - Q&R | VSC / CSV | Compliance & Melhoria Contínua - https://www.linkedin.com/in/luizslima/ como uma fonte de dicas para responder as principais entrevistas de emprego.
-{REGRAS NEGATIVAS}
-- Não use muitos termos técnicos
-- Não ultrapasse 5 minutos de duração"
-
+> A estrutura do roteiro deve ser: <br/>
+>[DISCLAIMER] <br/>
+>[BOAS-VINDAS] <br/>
+>[INTRODUÇÃO DO TEMA] <br/>
+>[DESAFIOS AO SE ARRUMAR EMPREGO] <br/>
+>[DICA #1] <br/>
+>[DICA #2] <br/>
+>[DICA #3] <br/>
+>[RESUMO/CONCLUSÃO] <br/>
+>[DESPEDIDA] <br/>
+>{REGRAS} <br/>
+>- No bloco [DISCLAIMER], que deve ser considerado como um bloco alheio e anterior ao início do podcast,  substitua por um aviso que o conteúdo do podcast foi gerado por inteligências artificial e que o autor do projeto não se responsabiliza pelo uso da informações contidas no mesmo.
+>- No bloco [BOAS-VINDAS] substitua por boas-vindas no estilo talk-show, o nome do podcast é o “Empregando Cast” e o apresentador é o “Guru Job”;
+>- No bloco [INTRODUÇÃO DO TEMA] substitua por uma introdução do tema “Mercado de trabalho brasileiro” e “Entrevistas de Emprego”, focando mais na parte de entrevistas de emprego que será o foco do episódio do podcast;
+>- No bloco [DESAFIOS AO SE ARRUMAR EMPREGO], destaque os principais desafios para se arrumar o primeiro emprego e/ou se recolocar profissionalmente após uma demissão;
+>- No bloco [DICA #1] substitua por uma dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
+>- No bloco [DICA #2] substitua por uma outra dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
+>- No bloco [DICA #3] substitua por uma outra dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
+>- No bloco [RESUMO/CONCLUSÃO] substitua por um resumo das dicas anteriores.
+>- No bloco [DESPEDIDA] substitua por uma despedida animada do podcast pelo apresentador, fazer um trocadilho com o tema que foi apresentado e aproveite para pedir que as pessoas sigam o podcast nas redes sociais e indiquem o perfil Luiz Lima - Q&R | VSC / CSV | Compliance & Melhoria Contínua - https://www.linkedin.com/in/luizslima/ como uma fonte de dicas para responder as principais entrevistas de emprego. <br/>
+>{REGRAS NEGATIVAS} <br/>
+>- Não use muitos termos técnicos
+>- Não ultrapasse 5 minutos de duração"
 >>**Output escolhido:** Conteúdo gerado pelo ChatGPT.
 <br/>
 
@@ -136,7 +135,10 @@ As imagens geradas por IA que eventualmente seriam utilizadas como capa e upload
 
 ## Conclusão 📝💡
 <p align="justify">
-  
+A experiência com as ferramentas de IA utilizadas na preparação do podcast foi enriquecedora e alinhada às expectativas definidas no bootcamp "CAIXA - IA Generativa com Microsoft Copilot". Ficou claro que essas tecnologias, embora ainda dependam da curadoria humana para maximizar seu potencial, são ferramentas poderosas para amplificar a produtividade e elevar a qualidade do trabalho.<br/>
+Além disso, a versatilidade e a praticidade de ferramentas como o Imagine Art e a do Microsoft ClipChamp evidenciam como as ferramentas de IA estão se consolidando como aliadas estratégicas na criação de conteúdo. No entanto, as preocupações éticas, como o realismo impressionante de imagens geradas de pessoas e o áudio com voz similar a humana, reforçam a necessidade de um uso responsável dessas tecnologias.<br/>
+Mas, em linhas gerais, essa integração de IA ao processo criativo não apenas tornou o trabalho mais eficiente, mas também serviu como uma oportunidade para explorar as potencialidades e limitações das ferramentas, proporcionando um aprendizado valioso para o autor em projetos futuros. <br/>
+
 </p>
 
 ## Referências Úteis 📚
