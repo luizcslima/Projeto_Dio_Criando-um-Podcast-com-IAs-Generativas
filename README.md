@@ -62,7 +62,41 @@ Acesso à plataforma: [DIO](https://dio.me)
 <br/>
 
 >6️⃣ **PROMPT #6 [COPILOT], [ChatGPT] - Geração do Roteiro do Podcast:**
->
+>"Contexto: Copilot/ChatGPT, você agora é um especialista em github, prompt engineering, chatgpt, copilot, imagineArt, elevenlabs, clipchamp, entrevistas de emprego e apresentador de podcasts. Você agora é principalmente um roteirista de podcast renomado.
+Função: Criar um roteiro de podcast cujo tema é "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira".
+Tópico: "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira". 
+Ação: Gerar um roteiro profissional de podcast no tema "Entrevistas de Emprego: Seu Passaporte para uma Nova Carreira". 
+Expectativa:
+> O roteiro deve ser profissional.
+> O público-alvo são profissionais que estão em busca do primeiro emprego ou recolocação profissional.
+ > O roteiro deverá ser ótimo o suficiente para ser publicado em plataformas como Spotify, soundcloud, youtube.
+ > O podcast será apresentado somente por uma pessoa o “Guru Job”
+> O podcast não terá mais do que 5 minutos.
+> Considera que o texto gerado será convertido para áudio posteriormente.
+> A estrutura do roteiro deve ser:
+[DISCLAIMER]
+[BOAS-VINDAS]
+[INTRODUÇÃO DO TEMA]
+[DESAFIOS AO SE ARRUMAR EMPREGO]
+[DICA #1]
+[DICA #2]
+[DICA #3]
+[RESUMO/CONCLUSÃO]
+[DESPEDIDA]
+{REGRAS}
+- No bloco [DISCLAIMER], que deve ser considerado como um bloco alheio e anterior ao início do podcast,  substitua por um aviso que o conteúdo do podcast foi gerado por inteligências artificial e que o autor do projeto não se responsabiliza pelo uso da informações contidas no mesmo.
+- No bloco [BOAS-VINDAS] substitua por boas-vindas no estilo talk-show, o nome do podcast é o “Empregando Cast” e o apresentador é o “Guru Job”;
+- No bloco [INTRODUÇÃO DO TEMA] substitua por uma introdução do tema “Mercado de trabalho brasileiro” e “Entrevistas de Emprego”, focando mais na parte de entrevistas de emprego que será o foco do episódio do podcast;
+- No bloco [DESAFIOS AO SE ARRUMAR EMPREGO], destaque os principais desafios para se arrumar o primeiro emprego e/ou se recolocar profissionalmente após uma demissão;
+- No bloco [DICA #1] substitua por uma dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
+- No bloco [DICA #2] substitua por uma outra dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
+- No bloco [DICA #3] substitua por uma outra dica de como superar os problemas do bloco [DESAFIOS AO SE ARRUMAR EMPREGO] e forneça um exemplo prático de como utilizar essa solução em uma entrevista de emprego.
+- No bloco [RESUMO/CONCLUSÃO] substitua por um resumo das dicas anteriores.
+- No bloco [DESPEDIDA] substitua por uma despedida animada do podcast pelo apresentador, fazer um trocadilho com o tema que foi apresentado e aproveite para pedir que as pessoas sigam o podcast nas redes sociais e indiquem o perfil Luiz Lima - Q&R | VSC / CSV | Compliance & Melhoria Contínua - https://www.linkedin.com/in/luizslima/ como uma fonte de dicas para responder as principais entrevistas de emprego.
+{REGRAS NEGATIVAS}
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração"
+
 >>**Output escolhido:** 
 <br/>
 
@@ -98,9 +132,10 @@ As imagens geradas por IA e ícones utilizados no e-book encontram-se na past "a
 </p>
 
 ## Referências Úteis 📚
-<p align="justify">
-N/A
-</p>
+- [As 50 perguntas de entrevista de emprego mais comuns ( parte 1 de 3)](https://www.linkedin.com/pulse/50-perguntas-de-entrevista-emprego-mais-comuns-parte-1-luiz-lima/?trackingId=M0hyKwzjRNKiyO4Nnx2Njw%3D%3D) <br/> 
+- [As 50 perguntas de entrevista de emprego mais comuns ( parte 2 de 3)](https://www.linkedin.com/pulse/50-perguntas-de-entrevista-emprego-mais-comuns-parte-2-luiz-lima/?trackingId=M0hyKwzjRNKiyO4Nnx2Njw%3D%3D) <br/> 
+- [As 50 perguntas de entrevista de emprego mais comuns ( parte 3 de 3)](https://www.linkedin.com/pulse/50-perguntas-de-entrevista-emprego-mais-comuns-parte-3-luiz-lima-hipff/?trackingId=M0hyKwzjRNKiyO4Nnx2Njw%3D%3D) <br/> 
+  
 
 ## Licença 📄
 <p align="justify">
